@@ -1,4 +1,5 @@
 # movie-recommender-systems
+
 Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. 
 
 ![image](https://user-images.githubusercontent.com/94167271/189485447-be5fdeda-2ecb-47dd-909a-0340d7a67a9c.png)
